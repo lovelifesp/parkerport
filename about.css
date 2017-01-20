@@ -1,0 +1,36 @@
+body {
+background-image: url("http://www.designlovefest.com/wp-content/uploads/downloads/2016/09/DLF_Desktop_blackrain.jpg");
+background-color:transparent;
+background-repeat: no-repeat;
+background-position: center;
+background-attachment: fixed;
+}
+
+#one{
+  padding:100px;
+  border:8px double black;
+  margin:100px;
+  width:5;}
+
+#two{
+  margin:auto;
+  text-align: center
+  }
+
+#three{
+    padding:70px;
+    border:8px double black;
+    margin:100px;
+    width:5;
+    margin:auto;
+    text-align: left;}
+
+    a {
+        color:black;
+    }
+    a:visited {
+        color: grey;
+    }
+    a:hover {
+        color:LightSalmon;
+    }
