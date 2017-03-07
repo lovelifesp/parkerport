@@ -25,12 +25,12 @@ background-attachment: fixed;
   Width:10;
 }
 
-
 a {
     color:black;
 }
+
 a:visited {
-    color: grey;
+    color: black;
 }
 a:hover {
     color:LightSalmon;

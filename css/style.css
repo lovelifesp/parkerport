@@ -25,11 +25,25 @@ background-attachment: fixed;
 }
 
 
+
+#four{
+
+  Padding:2px;
+  border:5px inset black;
+  margin:5px;
+  Width:10;
+
+}
+
+
+
+/*
 a {
     color:black;
 }
+*/
 a:visited {
-    color: grey;
+    color: black;
 }
 a:hover {
     color:LightSalmon;
